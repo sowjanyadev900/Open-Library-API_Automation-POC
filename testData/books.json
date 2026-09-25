@@ -1,0 +1,6 @@
+[
+  {
+    "searchQuery": "the lord of the rings",
+    "expectedKeyword": "lord of the rings"
+  }
+]
